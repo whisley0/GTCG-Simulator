@@ -10,7 +10,7 @@ Ask to join the googlegroups gtcg-simulator@googlegroups.com or you can get the 
 
 Open the Play Store listing and install the app on your phone:
 
-[Google Play Release][https://play.google.com/apps/internaltest/4701170075266031100]
+[Google internal testing Release](https://play.google.com/apps/internaltest/4701170075266031100)
 
 ### Or install the APK from this repository
 
