@@ -20,7 +20,7 @@ Open the Play testing page in a browser (sign in with your Google account if ask
 
 ### Or install the APK from this repository
 
-The Android install file is `app-release.apk` (about 146 MB). It is too large for a normal GitHub file upload, so it is published on the [Releases](https://github.com/whisley0/GTCG-Simulator/releases) page instead of inside this repository.
+The Android install file is `app-release.apk` (about 146 MB) in the release section, you can follow the step below: 
 
 1. Open the [Releases](https://github.com/whisley0/GTCG-Simulator/releases) page and download `app-release.apk`.
 2. Copy the file onto the phone if you did not download it there. A USB cable, Google Drive, or a message to yourself all work.
@@ -28,24 +28,14 @@ The Android install file is `app-release.apk` (about 146 MB). It is too large fo
 4. If Android says the install is blocked, allow installs from that app. The prompt usually offers **Settings**. Turn on **Allow from this source**, then go back and tap the file again.
 5. Tap **Install**, then **Open**.
 
-The home-screen name is **GTCG Simulator**.
-
-Card pictures are not stored inside this install file. After the first launch, use **Settings** and an internet connection to download them. Until then, card text still works, but the pictures stay blank.
-
-## First time you open it
-
-1. Read the disclaimer and tap **I understand**.
-2. On the title screen, tap **Game Start**.
+## Title Screen
 
 <img src="./screenshot/title.png" alt="Title screen with Game Start" width="360" />
 
-3. You land on **Battle**. The four buttons along the bottom are **Gallery**, **Deck**, **Battle**, and **Settings**.
-
-You start with **400 coins**. Coins are spent in the Gallery and earned by finishing battles.
+After pressing start, you will be landed on **Battle**. The four buttons along the bottom are **Gallery**, **Deck**, **Battle**, and **Settings**.
 
 ## How a session goes
 
-1. Download card pictures in **Settings**, if you want the art.
 2. In **Gallery**, see the cards you already have, or switch the list so you can buy cards you do not have yet.
 3. In **Deck**, put those cards into a deck of 50 main cards and 10 resource cards.
 4. In **Battle**, pick a match and fight. A win pays more coins than a loss. The first time you clear a stage on a difficulty pays extra.
@@ -57,8 +47,6 @@ This is the Gallery screen. The line under the title, **Only cards you have obta
 
 <img src="./screenshot/gallery.png" alt="Gallery screen with owned cards and coins" width="360" />
 
-Use the buttons under the coins to change the list:
-
 - **Show** — **Owned** shows cards you have. **All cards** also shows cards you have not bought yet.
 - **Set** — limit the list to one set, or keep **All sets**.
 - **Group by** — leave it on **None**, or group by set, card type, rarity, or color.
@@ -68,17 +56,10 @@ Use the buttons under the coins to change the list:
 
 On a card you own:
 
-- Tap the picture to open the card and read it. Tap or swipe to flip between the front and the back.
+- You can earn prdefined card deck by clearing stage and learning how the deck are used in battle.
+- After that, the card is available and you can tap the picture to open the card and read it. Tap or swipe to flip between the front and the back.
 - The red **X** removes one copy from your collection.
 - A small **×2** or **×3** mark shows how many copies you have. A deck can hold at most **4** copies of the same card.
-- **Buy copy** spends coins for one more copy. A common card costs 40, an uncommon 80, a rare 160, a promo 200, and an LR 320. The button shows the price for that card.
-
-On a card you do not own yet (only visible when **Show** is **All cards**):
-
-1. Tap **Unlock slot** (25 coins).
-2. Tap **Buy** and pay the card’s price. It is then one of your cards.
-
-If you do not have enough coins, the button stays disabled. Play a battle to earn more.
 
 ## Deck
 
@@ -114,8 +95,8 @@ The Battle tab is where you pick a match. Across the top are four lists: **Rando
 
 - **Random** — one match against a random stage deck. Tap **Start random match**. You need a deck first. If you do not have one, the screen says so.
 - **Solo** — open **Deck Demonstration** to see the stage list. The current stage says **FIGHT**. Later stages stay locked until you clear the one before them. **Competition** is a separate set of longer modes: a single random match, 20 matches in a row, an 8-player tournament, or a match you only watch.
-- **Team** — team-battle stages, plus a sample 2-versus-2 table.
-- **Royale** — the battle-royale stages. They unlock on their own track, separate from Solo.
+- **Team** — team-battle stages, plus a sample 2-versus-2 table. (It is currently under construction)
+- **Royale** — the battle-royale stages. They unlock on their own track, separate from Solo. (It is currently under construction)
 
 Tap an unlocked stage, choose **your deck** and a **difficulty**, then start. Rookie is available on a new stage. Harder difficulties open after you clear the easier one on that same stage. A cleared stage can be played again.
 
@@ -123,11 +104,8 @@ The phone turns sideways while a match is on screen, then returns to upright whe
 
 <img src="./screenshot/battle-play.png" alt="Battle playmat during a match" width="560" />
 
-Win or lose, the result screen pays coins. Take those back to the Gallery.
-
 ## Settings
 
 - **Language** — follow the phone, or pick English, 日本語, or 繁體中文. This changes every screen.
 - **Sound** — turn sounds on or off, and pick menu music.
 - **Game settings** — a turn timer (time running out ends your turn; you can turn the timer off) and **Play assist** hints.
-- **Arts Download** — **Check for new cards**, then confirm the download. This is what fills in card pictures and holographic styles. Stay on Wi-Fi if you can. The download is large.
