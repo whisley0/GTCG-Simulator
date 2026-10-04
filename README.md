@@ -4,19 +4,13 @@ A phone app for looking through the cards you have, building a deck, and playing
 
 ## Install the app
 
-You can get the app from Google Play, or install the APK from this repository.
+Ask to join the googlegroups gtcg-simulator@googlegroups.com or you can get the app from the below test address, or install the APK from this repository.
 
 ### Play on an Android phone (Google Play)
 
 Open the Play Store listing and install the app on your phone:
 
 [https://play.google.com/store/apps/details?id=com.gundamtcg.cardmachine](https://play.google.com/store/apps/details?id=com.gundamtcg.cardmachine)
-
-### Join the test on the web
-
-Open the Play testing page in a browser (sign in with your Google account if asked), then join the test so you can install or open the app from there:
-
-[https://play.google.com/apps/testing/com.gundamtcg.cardmachine](https://play.google.com/apps/testing/com.gundamtcg.cardmachine)
 
 ### Or install the APK from this repository
 
