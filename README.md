@@ -10,7 +10,7 @@ Ask to join the googlegroups gtcg-simulator@googlegroups.com or you can get the 
 
 Open the Play Store listing and install the app on your phone:
 
-[https://play.google.com/store/apps/details?id=com.gundamtcg.cardmachine](https://play.google.com/store/apps/details?id=com.gundamtcg.cardmachine)
+[Google Play Release][https://play.google.com/apps/internaltest/4701170075266031100]
 
 ### Or install the APK from this repository
 
