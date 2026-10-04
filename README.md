@@ -2,11 +2,25 @@
 
 A phone app for looking through the cards you have, building a deck, and playing practice battles. It is an independent fan project. It is not made by, endorsed by, or connected to Bandai or the official Gundam card game.
 
-The Android install file is `app-release.apk` (about 146 MB). It is too large for a normal GitHub file upload, so it is published on the [Releases](https://github.com/whisley0/GTCG-Simulator/releases) page instead of inside this repository.
-
 ## Install the app
 
-You need an Android phone.
+You can get the app from Google Play, or install the APK from this repository.
+
+### Play on an Android phone (Google Play)
+
+Open the Play Store listing and install the app on your phone:
+
+[https://play.google.com/store/apps/details?id=com.gundamtcg.cardmachine](https://play.google.com/store/apps/details?id=com.gundamtcg.cardmachine)
+
+### Join the test on the web
+
+Open the Play testing page in a browser (sign in with your Google account if asked), then join the test so you can install or open the app from there:
+
+[https://play.google.com/apps/testing/com.gundamtcg.cardmachine](https://play.google.com/apps/testing/com.gundamtcg.cardmachine)
+
+### Or install the APK from this repository
+
+The Android install file is `app-release.apk` (about 146 MB). It is too large for a normal GitHub file upload, so it is published on the [Releases](https://github.com/whisley0/GTCG-Simulator/releases) page instead of inside this repository.
 
 1. Open the [Releases](https://github.com/whisley0/GTCG-Simulator/releases) page and download `app-release.apk`.
 2. Copy the file onto the phone if you did not download it there. A USB cable, Google Drive, or a message to yourself all work.
