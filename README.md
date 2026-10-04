@@ -22,6 +22,9 @@ Card pictures are not stored inside this install file. After the first launch, u
 
 1. Read the disclaimer and tap **I understand**.
 2. On the title screen, tap **Game Start**.
+
+<img src="./screenshot/title.png" alt="Title screen with Game Start" width="360" />
+
 3. You land on **Battle**. The four buttons along the bottom are **Gallery**, **Deck**, **Battle**, and **Settings**.
 
 You start with **400 coins**. Coins are spent in the Gallery and earned by finishing battles.
@@ -38,7 +41,7 @@ You start with **400 coins**. Coins are spent in the Gallery and earned by finis
 
 This is the Gallery screen. The line under the title, **Only cards you have obtained**, means the list is showing cards already in your collection. Your coin total sits under that line.
 
-<img src="./screenshot/gallery.png" alt="GTCG Simulator Gallery screen" width="360" />
+<img src="./screenshot/gallery.png" alt="Gallery screen with owned cards and coins" width="360" />
 
 Use the buttons under the coins to change the list:
 
@@ -67,11 +70,23 @@ If you do not have enough coins, the button stays disabled. Play a battle to ear
 
 The Deck tab has **10 slots**. Tap a slot to build in it. You can rename a slot, **Load owned deck** into it, **Copy** a finished deck into another slot, or **Delete** it.
 
+<img src="./screenshot/deck-load.png" alt="Load owned deck list" width="360" />
+
 A deck that can be used in battle has:
 
 - **50** cards in the main deck (units, pilots, commands, and bases)
 - **10** resource cards
 - no more than **4** copies of any one card
+
+The builder shows every card in the main deck. You can filter by color, search by name or number, and remove a card with the red minus button.
+
+<img src="./screenshot/deck-builder.png" alt="Main deck builder with 50 cards" width="360" />
+
+Tap a card to open a large view of the front. Tap or swipe again to see the stats and effect text on the other side.
+
+<img src="./screenshot/card-front.png" alt="Card front preview in the deck builder" width="360" />
+
+<img src="./screenshot/card-details.png" alt="Card stats and effect text" width="360" />
 
 The builder tells you when the deck is ready and lists anything that still breaks those rules. **Auto-complete from collection** fills empty space from cards you own. **Guided team builder** walks through mobile suits, pilots, commands, and bases one step at a time.
 
@@ -79,9 +94,9 @@ When the deck is ready, start a battle from the builder. That deck is already se
 
 ## Battle
 
-The phone turns sideways while a match is on screen, then returns to upright when you leave.
+The Battle tab is where you pick a match. Across the top are four lists: **Random**, **Solo**, **Team**, and **Royale**. If a match was left unfinished, a **Resume** banner appears so you can continue or abandon it.
 
-Across the top of the Battle tab are four lists:
+<img src="./screenshot/battle-menu.png" alt="Battle tab with Random Play" width="360" />
 
 - **Random** — one match against a random stage deck. Tap **Start random match**. You need a deck first. If you do not have one, the screen says so.
 - **Solo** — open **Deck Demonstration** to see the stage list. The current stage says **FIGHT**. Later stages stay locked until you clear the one before them. **Competition** is a separate set of longer modes: a single random match, 20 matches in a row, an 8-player tournament, or a match you only watch.
@@ -90,7 +105,9 @@ Across the top of the Battle tab are four lists:
 
 Tap an unlocked stage, choose **your deck** and a **difficulty**, then start. Rookie is available on a new stage. Harder difficulties open after you clear the easier one on that same stage. A cleared stage can be played again.
 
-During the match you draw a hand, play cards when you have enough level and cost, attack, and end the turn. If **Play assist** is on in Settings, the game can point at a reasonable next move. If you leave in the middle, the Battle tab keeps a banner so you can resume or abandon that match.
+The phone turns sideways while a match is on screen, then returns to upright when you leave. During the match you draw a hand, play cards when you have enough level and cost, attack, and end the turn. If **Play assist** is on in Settings, the game can point at a reasonable next move.
+
+<img src="./screenshot/battle-play.png" alt="Battle playmat during a match" width="560" />
 
 Win or lose, the result screen pays coins. Take those back to the Gallery.
 
